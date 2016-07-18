@@ -1,4 +1,5 @@
 # LightningBolt---PID-enabled-fast-line-follower
+# can reach upto 2 m/sec 
 Sensor Used-
  Pololu QTR Analog sensor 
 
