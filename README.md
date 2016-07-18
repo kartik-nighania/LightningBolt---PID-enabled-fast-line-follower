@@ -1,5 +1,5 @@
 # LightningBolt---PID-enabled-fast-line-follower
-Sensors Used-
+Sensor Used-
  Pololu QTR Analog sensor 
 
 a fast line follower base on proportional–integral–derivative controller (PID controller) is a control loop feedback mechanism (controller) commonly used in industrial control systems. A PID controller continuously calculates an error value as the difference between a desired setpoint and a measured process variable. The controller attempts to minimize the error over time by adjustment of a control variable, such as the position of a control valve, a damper, or the power supplied to a heating element, to a new value determined by a weighted sum:
